@@ -1,0 +1,239 @@
+.topcard{
+   display: flex;
+  justify-content: center;
+  padding-top: 35px;
+  
+
+}
+#topcard1{
+    box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.19);
+}
+#header{
+    height: 74px;
+    border: none;
+    background-color: white;
+}
+.backicon{
+    padding-right: 300px;
+    padding-left: 12px;
+    margin-top: 10px;
+}
+.logo{
+    padding-top: 5px;
+    padding: right 350px; 
+    align-content: center;
+}
+.card-body{
+    padding: 0rem;
+}
+#cardbody{
+   padding-left: 32px;
+   padding-right: 32px;
+}
+#txlogin{
+    padding-top: 10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: bold;
+}
+#contentright{
+    margin-top: 8px;
+    margin-bottom: 14px;
+}
+
+#contentleft{
+margin-bottom: 14px;
+}
+#etmail{
+width: 325px;
+height: 44px;
+}
+#btnext{
+    width: 325px;
+    height: 44px;
+}
+#txhint{
+   font-weight: lighter;
+    margin-bottom: 8px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: lighter;
+}
+
+#boxemail{
+    border: none;
+    
+    
+}
+
+
+
+.btn{
+    height: 40px    ;
+margin-top: 20px;
+   width: 100%;
+   background-color: #007fad;
+   font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+
+/* Four buttons settings  */
+
+.btgoogle {
+  background-color: white;
+  color: black;
+  border: 2px solid #555555;
+  width: 315px;
+  height: 44px;
+  margin-top:25px;
+  margin-bottom: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+.btgoogle:hover {
+  background-color: #555555;
+  color: white;
+}
+
+#icgoogle{
+margin-right: 50px;
+}
+#txgoogle{
+ margin-right: 60px;
+}
+
+.btfb {
+  background-color: white;
+  color: black;
+  border: 2px solid #555555;
+  width: 315px;
+  height: 44px;
+  margin-top: 25px;
+  margin-bottom: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+.btfb:hover {
+  background-color: #555555;
+  color: white;
+}
+
+#icfb{
+margin-right: 50px;
+}
+#txfb{
+ margin-right: 60px;
+}
+.btamazon {
+  background-color: white;
+  color: black;
+  border: 2px solid #555555;
+  width: 315px;
+  height: 44px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+.btamazon:hover {
+  background-color: #555555;
+  color: white;
+}
+
+#icamazon{
+margin-right: 50px;
+}
+#txamazon{
+ margin-right: 60px;
+}
+
+.btapple {
+  background-color: white;
+  color: black;
+  border: 2px solid #555555;
+  width: 315px;
+  height: 44px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+.btapple:hover {
+  background-color: #555555;
+  color: white;
+}
+
+#icapple{
+margin-right: 50px;
+}
+#txapple{
+ margin-right: 60px;
+}
+
+
+  #privacy{
+     margin-bottom: 25px;
+     padding-left: 20px;
+  }
+
+ #lastcontainer{
+     width: 758px;
+     display: flex;
+     justify-content:left;
+     font-size: 20px;
+     line-height: 1.25;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: bold;
+    color: black;
+     margin-top: 16px;
+ }
+
+ #btcontainer{
+    width: 758px;
+    display: flex;
+    justify-content:left;
+   
+    
+ }
+
+
+ .btaccount {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+    width: 166.6px;
+    height: 44px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .btaccount:hover {
+    background-color: #555555;
+    color: white;
+  }
+
+
+  .bttest {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+    width: 315px;
+    height: 44px;
+    /* margin-top: 10px;
+    margin-bottom: 5px; */
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  }
+  .bttest:hover {
+    background-color: #555555;
+    color: white;
+  }
+
+ #icgoogle{
+  margin-right: 50px;
+ }
+ #txgoogle{
+   margin-right: 60px;
+ }
